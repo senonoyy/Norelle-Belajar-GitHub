@@ -1,5 +1,4 @@
-# Evidence Norelle Belajar GitHub
-
+# Evidence Norelle Belajar GitHub Day 1 Yippie Yay 😍✨
 
 ## 1. Clone
 
