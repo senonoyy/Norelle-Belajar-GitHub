@@ -1,7 +1,31 @@
-# Evidence Day-1 Belajar GitHub
+# Evidence Norelle Belajar GitHub
 
-1. Clone
-![Melakukan Git Clone](IMAGES/CLONE.png)
 
-2. Push
-![Push Evidence](./images/push.png)
+## 1. Clone
+
+![Clone Evidence](IMAGES/CLONE.png)
+
+
+## 2. Add
+![Add Evidence](IMAGES/ADD.png)
+
+
+## 3. Commit
+![Commit Evidence](IMAGES/COMMIT.png)
+
+
+## 4. Push
+![Push Evidence](IMAGES/PUSH.png)
+
+
+## 5. Branch 
+![Branch Evidence](IMAGES/BRANCH.png)
+
+
+
+## 6. Merge
+![Merge Evidence](IMAGES/MERGE.png)
+
+
+## 7. Pull / Fetch
+![Pull / Fetch Evidence](IMAGES/PULL.png)
