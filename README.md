@@ -9,3 +9,5 @@ Repository ini dibuat untuk **mencoba dan berlatih menggunakan fitur dasar Git &
 - `push`
 - `pull` / `fetch`
 - `merge`
+
+Tujuannya adalah untuk *mengenal alur kerja GitHub* dan membiasakan diri menggunakan perintah-perintah dasarnya.
