@@ -1,12 +1,13 @@
 # 📘 Day-1-Belajar-GitHub
 
 ## 📝 Deskripsi
-Repository ini dibuat untuk **mencoba dan berlatih menggunakan fitur dasar Git & GitHub**, yaitu:
+Repository ini dibuat untuk **mencoba dan berlatih menggunakan beberapa fitur dasar Git & GitHub**, yaitu:
 
 - `clone`
 - `add`
 - `commit`
 - `push`
+- `branch`
 - `pull` / `fetch`
 - `merge`
 
